@@ -1,0 +1,3 @@
+交叉熵作为损失函数的网络，最后一层softmax 隐层 sigmoid/elu函数
+
+均方误差作为损失函数的网络，最后一层softmax 隐层tanh函数
